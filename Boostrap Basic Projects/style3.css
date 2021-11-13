@@ -1,0 +1,53 @@
+
+.header{
+    height: 35vh;
+}
+.navbar-style
+{
+    box-shadow: 0 5px 10px #efefef;
+}
+.logo{
+    height: 80px;
+    padding: 2px 10px;
+    
+}
+
+.icon-bar{
+
+    background: darkblue;
+}
+.text{
+    font-size: 45px;
+    margin: 20px 0;
+    color:darkblue;
+}
+#m{
+    color: darkred;
+}
+a.btn{
+    margin:30px 10px ;
+    width:150px ;
+    padding:10px ;
+    border-radius: 20px ;
+}
+a.btn-first{
+    background-color: darkcyan;
+    color: #fff;
+
+}
+a.btn-second{
+    background-color:transparent;
+    border: 1px solid darkcyan;
+    color: black;
+    
+}
+
+a.btn:hover{
+    background : darkcyan;
+    border:none;
+    color: #ffff;
+    box-shadow: 5px 5px 10px #999;
+    transition: 0.3s;
+
+
+}
